@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghostlightning
-- 👀 I’m interested in learn new programming languagens
-- 🌱 I’m currently learning html,css,js,python,etc..
-- 💞️ I’m looking to collaborate in everything i can do
+- 👋 Hi, I’m @CaioS-ouza
+- 👀 I’m interested in learn new programming languages,
+- 🌱 I’m currently learning java,python,C++ and another concepts and languages..
+- 💞️ I’m looking to collaborate in everything what i can.
 
 <!---
 ghostlightning/ghostlightning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
